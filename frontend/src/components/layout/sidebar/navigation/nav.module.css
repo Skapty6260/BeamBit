@@ -1,0 +1,8 @@
+.navitem {
+  display: flex;
+  align-items: center;
+}
+
+.navitem:hover {
+  color: white;
+}
